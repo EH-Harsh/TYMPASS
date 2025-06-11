@@ -20,19 +20,12 @@ Here, I upload my daily practice code across different technologies as I grow an
 
 ---
 
-## 📅 Daily Progress Log
 
-🟢 *10 June*  
-➤ Wrote first C program to add two numbers 🧮
+## 🗂 Weekly Progress Logs
 
-🟢 *11 June*  
-➤ Designed a simple HTML form layout 🧾
+📌 [Week 2 – June 2025](logs/log-2025-06-week-2.md)
 
-🟢 *12 June*  
-➤ Practiced loops in C  
-➤ Reversed a string in Python 🌀
-
-(More coming soon... every single day!)
+(More weeks coming soon...)
 
 ---
 
