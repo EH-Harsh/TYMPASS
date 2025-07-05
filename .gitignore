@@ -1,0 +1,26 @@
+# ✅ Ignore the ESP folder completely
+/ESP/
+
+# ✅ Ignore compiled C/C++ binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# ✅ Ignore temporary or backup files
+*.log
+*.tmp
+*.bak
+*~
+
+# ✅ Ignore VS Code workspace settings
+.vscode/
+
+# ✅ Ignore OS-specific junk files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ✅ Optional: Ignore any hidden swap or temp files
+*.swp
+*.swo
